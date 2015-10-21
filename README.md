@@ -5,9 +5,9 @@ Pequeño script, que junto a https://github.com/enfuse/pushbullet-bash envía un
 
 **Dependencias**
 
-Cuenta en pushbullet [API key]
-https://github.com/enfuse/pushbullet-bash
-cUrl
+- [x] Cuenta en pushbullet [API key]
+- [x] https://github.com/enfuse/pushbullet-bash
+- [x] cUrl
 
 **Instalación**
 
